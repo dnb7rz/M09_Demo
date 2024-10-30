@@ -1,2 +1,2 @@
 # M09_Demo
-M09 demo fo packaging
+M09 demo for packaging
